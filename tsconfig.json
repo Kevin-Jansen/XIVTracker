@@ -4,7 +4,7 @@
     "target": "es6",
     "sourceMap": true,
     "strict": true,
-    "noImplicitThis": true
+    "isolatedModules": true
   },
   "exclude": [
     "node_modules"
